@@ -1,0 +1,1 @@
+export const TriggerReasons=["All","Hard Flag","Temp Flag","FIFO","IP Change","Restricted unflag","Reviewed"]
